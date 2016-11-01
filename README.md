@@ -25,4 +25,8 @@ A number of templates are planned to be released in the future. Subscribe to Pur
 
 Purchasing Toolpak is developed on and hosted with GitHub. Head to the <a href="https://github.com/purchasingtoolpak/purchasingtoolpak">GitHub repository</a> for downloads, bug reports, and features requests.
 
+### More Information
+
+For more information please go to our website <a href="http://www.purchasingtoolpak.com">purchasing toolpak</a>. Go to this link to read the purchasing toolpak <a href="http://blog.purchasingtoolpak.com">blog</a>.
+
 Thanks!
