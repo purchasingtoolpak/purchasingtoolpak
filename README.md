@@ -1,16 +1,16 @@
 # Purchasing Toolpak
-Purchasing Toolpak provides tools and templates for professional buyers. The templates help buyers improve productivity as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
+Purchasing Toolpak provides free Excel and Word templates for procurement professionals. The templates help procurement increase purchasing power as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
 
 ### Use Excel and Word Templates
 
-The templates are compatible with Microsoft Office Excel and Word. In addition the templates are also compatible with Pages and Numbers for Mac and IOS, Google Docs and Sheets and Apache Open Office. Any templates using macros will only work with Excel for Windows. Microsoft® and the Office logo are trademarks or registered trademarks of Microsoft Corporation in the United States
+The free templates are compatible with Microsoft Office Excel and Word. In addition the templates are also compatible with Pages and Numbers for Mac and IOS, Google Docs and Sheets and Apache Open Office. Any templates using macros will only work with Excel for Windows. Microsoft® and the Office logo are trademarks or registered trademarks of Microsoft Corporation in the United States
 and/or other countries.
 
 ### Some of the most popular templates
 
 Some of the most popular templates and tools are:
 
-* **Purchase Order** - The purchase order template provides the information needed to order parts or services. There are two purchase order templates; one for ordering parts and a second for the purchase of services. 
+* **Purchase Order** - The free purchase order template provides the information needed to order parts or services. There are two purchase order templates; one for ordering parts and a second for the purchase of services. 
 * **Bid Evaluation** - Quickly evaluate bids from multiple suppliers. After entering description, quantity and price for each supplier, the bid evaluation template does the rest of the work!
 * **Request for Quotation** - Utilize this template to request suppliers to submit bids for materials, services
 or equipment.
@@ -19,7 +19,7 @@ or equipment.
 
 ### Future Development
 
-A number of templates are planned to be released in the future. Subscribe to Purchasing Toolpak blog to learn about new tool and templates for professional buyers.
+A number of templates are planned to be released in the future. Subscribe to Purchasing Toolpak blog to learn about new tool and templates for procurement.
 
 ### Download
 
