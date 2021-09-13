@@ -27,6 +27,6 @@ Purchasing Toolpak is developed on and hosted with GitHub. Head to the <a href="
 
 ### More Information
 
-For more information please go to our website <a href="http://www.purchasingtoolpak.com">purchasing toolpak</a>. Go to this link to read the purchasing toolpak <a href="http://blog.purchasingtoolpak.com">blog</a>.
+For more information please go to our website <a href="https://purchasingtoolpak.github.io/purchasing-toolpak-home/">purchasing toolpak</a>. Go to this link to read the purchasing toolpak <a href="http://blog.purchasingtoolpak.com">blog</a>.
 
 Thanks!
